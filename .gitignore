@@ -1,7 +1,9 @@
-.sass-cache
+_site
 .DS_Store
-.eslintcache
-npm-debug.log
-yarn-error.log
+*.sublime-project
+*.sublime-workspace
+codekit-config.json
 node_modules
-!.gitignore
+_asset_bundler_cache
+.sass-cache
+.jekyll-metadata
