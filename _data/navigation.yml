@@ -1,21 +1,21 @@
 # Site navigation links
 
-- title: 网页设计与制作
-  url: /teaching/
-  excerpt: 个人作品
-  image: web.gif
-
-- title: 信息可视化
-  url: /i18nl10n/
-  excerpt: 个人作品
-  image: vis.gif
-
-- title: 学习笔记
-  url: /SDG/
-  excerpt: 
-  image: note.gif
-
-- title: Contact 联络我
-  url: /contact/
-  excerpt: 
-  image: contact.gif
+- title: 网页设计作品集
+  url: /portfolio/
+  excerpt: 作业
+  image: webpage design.gif
+  
+- title: 信息可视化作品集
+  url: /infovis/
+  excerpt: 作业
+  image: visualization.gif
+  
+- title: web笔记
+  url: /notes/rwd/
+  excerpt: 随便看看
+  image: notes.gif
+  
+- title: 信息可视化笔记
+  url: /notes/infovis/
+  excerpt: "Github: arifin395"
+  image: contact me.gif   
