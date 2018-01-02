@@ -4,12 +4,12 @@ title:  "平面设计/图型设计 Graphic Design"
 date:   2018-1-2 0:49:50 +0800
 categories: portfolio
 image:
-  teaser: abc.png
-  feature: abc.png
+  teaser: Graphic Design.jpg
+  feature: Graphic Design.jpg
 ---
 
 
-8. #  平面设计/图型设计 Graphic Design 
+8. #  WSG4_08（L组）翻译
 
 ---
 p.257
