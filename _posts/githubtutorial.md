@@ -1,3 +1,14 @@
+---
+layout: article
+title:  "三分钟在GitHub上搭建个人博客（小白教程)"
+date:   2018-1-02 08:45:50 +0800
+categories: notes_tech Jekyll
+image:
+  teaser: Jekyll_skinny_bones.jpg
+  feature: Jekyll_skinny_bones.jpg
+---
+
+
 # 三分钟在GitHub上搭建个人博客（小白教程)
 
 >  GitHub作为全球最大的程序员交友网站，是一个代码托管平台和开发者社区，开发者可以在Github上创建自己的开源项目并与其他开发者协作编码。
