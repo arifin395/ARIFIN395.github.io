@@ -10,12 +10,12 @@
   excerpt: 作业
   image: visualization.gif
   
-- title: web笔记
+- title: Web笔记
   url: /notes/rwd/
   excerpt: 随便看看
   image: notes.gif
   
 - title: 联系我
-  url: /notes/infovis/
+  url: /contact/
   excerpt: "Github: arifin395"
   image: contact me.gif   
