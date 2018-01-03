@@ -6,7 +6,7 @@ modified:
 excerpt: 
 tags: []
 image: 
-  feature: webpage design.gif
+  feature: 
   teaser:
 ---
 
