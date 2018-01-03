@@ -2,7 +2,7 @@
 layout: article
 title:  "平面设计/图型设计 Graphic Design"
 date:   2018-1-2 0:49:50 +0800
-categories: portfolio
+categories: posts rwd
 image:
   teaser: Graphic Design.jpg
   feature: Graphic Design.jpg
