@@ -8,8 +8,6 @@ image:
   feature: sky.jpg
 ---
 
-
-
 ## 北京，距离蓝天还有多远？
 
 
@@ -18,5 +16,5 @@ image:
 
 
 
-## 接下来请看我们小组的作品：
-<a href="https://arifin395.github.io/portfolio/visualization1/index.html" target="_blank">北京，距离蓝天还有多远？</a>
+## 作品传送门（点击下列链接)：
+- # <a href="https://arifin395.github.io/portfolio/visualization1/index.html" target="_blank">北京，距离蓝天还有多远？</a>
