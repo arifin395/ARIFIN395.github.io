@@ -22,14 +22,14 @@ $border-radius               	: 3px;
 
 /*
    Color variables
-   Background : Gainsboro rgba(220,220,220,0.9)  http://encycolorpedia.cn/ffffff
+   Background : bwhite rgba(255,255,255,0.9)  http://encycolorpedia.cn/ffffff
    white #ffffff
    text-color: #595959
    ========================================================================== */
 
 $white                        : #fff; 
 $black                        : #000;
-$Gainsboro                    : rgba(220,220,220,0.9);
+$bwhite                       : rgba(255,255,255,0.9);
 $GoldEnrod                    : #daa520;
 
 $body-color                  	: #ebebeb;
@@ -37,12 +37,12 @@ $body-color                  	: #ebebeb;
 $text-color                  	: #595959;
 $caption-color                : mix($white, $text-color, 25%);
 
-$base-color                  	: $Gainsboro;
+$base-color                  	: $bwhite;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
 $link-color                  	: #222;
 
-$primary-color               	: $Gainsboro;
+$primary-color               	: $bwhite;
 $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
 $danger-color                	: #e74c3c;
@@ -88,10 +88,10 @@ $form-font-size              	: $doc-font-size;
    Sliding menu navigation variables
    ========================================================================== */
 
-$sliding-menu-border-color	 	   : $Gainsboro;
-$sliding-menu-background 		   : $Gainsboroe;
+$sliding-menu-border-color	 	   : $bwhite;
+$sliding-menu-background 		   : $bwhite;
 $sliding-menu-color 	 		   : #595959;
-$sliding-menu-background-hover     : $Gainsboro;
+$sliding-menu-background-hover     : $bwhite;
 $sliding-menu-color-hover	 	   : $white;
 $sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
 $button-size		         	   : 30px;
