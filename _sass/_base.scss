@@ -11,7 +11,7 @@ body {
 	color: $text-color;
     background-image:
       linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), 
-      url('../images/bg.jpg');
+      url('../images/bg.png');
 	@include font-size(16);
 }
 
