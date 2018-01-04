@@ -1,12 +1,3 @@
----
-layout: article
-title:  "我竟然在B站学习：Ruby初学者系列教程"
-date:   2018-1-2 6:00:50 +0800
-categories: posts rwd
-image:
-  teaser: gembox.png
-  feature: gembox.png
----
 # (｡･∀･)ﾉﾞ嗨这是一个教程视频集合
 
 

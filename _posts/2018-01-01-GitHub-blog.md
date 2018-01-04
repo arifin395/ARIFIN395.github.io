@@ -1,19 +1,11 @@
----
-layout: article
-title:  "三分钟在GitHub上搭建个人博客（小白戳进来)"
-date:   2018-1-2 6:00:50 +0800
-categories: posts rwd
-image:
-  teaser: github.jpg
-  feature: github.jpg
----
 ##  一看就会的小傻瓜式教程  _(:⁍」∠)_
+
 
 ####  GitHub作为全球最大的程序员交友网站，是一个代码托管平台和开发者社区，开发者可以在Github上创建自己的开源项目并与其他开发者协作编码。
 
 
-#### 最近想在GitHub上搭建一个自己的博客，可是搜寻了网上的好多教程都不成功。有的教程偏老，有的教程不适合小白过于复杂。没办法，自己刚入门，捣鼓了半天，总算摸出了一条适合小白搭建博客的方法，下面进入正题：
 
+#### 最近想在GitHub上搭建一个自己的博客，可是搜寻了网上的好多教程都不成功。有的教程偏老，有的教程不适合小白过于复杂。没办法，自己刚入门，捣鼓了半天，总算摸出了一条适合小白搭建博客的方法，下面进入正题：
 
 ###### 1. 注册一个GitHub账号。
 ![image](https://pic1.zhimg.com/50/v2-f96b47e3b9b37bbcebf8ae83d26fec2e_hd.jpg)
@@ -27,7 +19,7 @@ image:
 ![image](https://pic4.zhimg.com/50/v2-bb9610cdfb32da5e5d029356666ac8b3_hd.jpg)
 
 (2)
-给自己的Repositories取一个名字，注意：名称格式最好为：用户名.github.io
+给自己的Repositories取一个名字，注意：名称格式最好为：==用户名.github.io==
 
 (3)
 点击create repositories.随后跳转到该库界面,由于我是搭建好的，所以会有项目文件，然后选择Settings.
