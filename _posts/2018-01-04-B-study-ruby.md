@@ -1,3 +1,13 @@
+---
+layout: article
+title:  "三分钟在GitHub上搭建个人博客（小白戳进来)"
+date:   2018-01-02 6:00:50 +0800
+categories: posts rwd
+image:
+  teaser: github.jpg
+  feature: github.jpg
+---
+
 # (｡･∀･)ﾉﾞ嗨这是一个教程视频集合
 
 
