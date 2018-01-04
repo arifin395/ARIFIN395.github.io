@@ -1,11 +1,11 @@
 ---
 layout: article
-title:  "三分钟在GitHub上搭建个人博客（小白戳进来)"
-date:   2018-01-02 6:00:50 +0800
+title:  "我竟然在B站学习：Ruby初学者系列教程"
+date:   2018-1-2 6:00:50 +0800
 categories: posts rwd
 image:
-  teaser: github.jpg
-  feature: github.jpg
+  teaser: gembox.png
+  feature: gembox.png
 ---
 
 # (｡･∀･)ﾉﾞ嗨这是一个教程视频集合
