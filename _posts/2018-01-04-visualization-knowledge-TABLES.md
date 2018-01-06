@@ -2,7 +2,7 @@
 layout: article
 title:  "知识点归纳：7类图表的使用规范之表格TABLES"
 date:   2018-01-02 6:00:50 +0800
-categories: posts infovis
+categories: posts infovis infovisnotes
 image:
   teaser: tables.jpg
   feature: tables.jpg
