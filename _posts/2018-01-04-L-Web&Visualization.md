@@ -2,7 +2,7 @@
 layout: article
 title:  "L组的Web&Visualization期中项目"
 date:   2017-01-04 22:07:50 +0800
-categories: portfolio  infovis 
+categories: portfolio  infovis visualization
 image:
   teaser: sky.jpg
   feature: sky.jpg
