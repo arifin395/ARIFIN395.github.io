@@ -18,4 +18,9 @@
 - title: 信息可视化笔记
   url: /posts/infovis/
   excerpt: 随便看看
-  image: contact me.gif   
+  image: contact me.gif 
+  
+- title: 联络我
+  url: /contact/
+  excerpt: "联络我"
+  image: Pigeon_post.jpg
